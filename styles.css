@@ -19,6 +19,8 @@ div.main{
     border-left-width: 5px;
 	border-left-color: rgb(0, 128, 0);
 	padding: 10px;
+	border-left-thickness: 5px;
+	border-left-color: green;
 }
 
 .heading{

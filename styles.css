@@ -6,10 +6,12 @@
     left-side-border-color: green;
     left-side-border-thickness: 5 pixels;
     padding-on-all-sides: 10px;
+	border-left-width: 5px;
 }
 
 .heading{
 	font-size: 20 pixels;
     text-color: white;
     text-decoration: underline;
+	font-size: 20px;
 }

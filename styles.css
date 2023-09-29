@@ -9,14 +9,16 @@ div.main{
 	border-left-width: 5px;
 	background-color: rgb(128, 0, 128);
 	width: 200px;
-	border-left-width: rgb(0, 128, 0);
+	border-left-color: rgb(0, 128, 0);
+	padding: 10px;
 }
 
 .main{
 	background-color: rgb(128, 0, 128);
     width: 200px;
     border-left-width: 5px;
-	border-left-width: rgb(0, 128, 0);
+	border-left-color: rgb(0, 128, 0);
+	padding: 10px;
 }
 
 .heading{

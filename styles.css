@@ -6,7 +6,7 @@ div.main{
     left-side-border-color: green;
     left-side-border-thickness: 5 pixels;
     padding-on-all-sides: 10px;
-	border-left-width: 5px;
+	border-left-width: 5 pixels;
 	background-color: rgb(128, 0, 128);
 	width: 200px;
 	border-left-color: rgb(0, 128, 0);
@@ -16,7 +16,7 @@ div.main{
 .main{
 	background-color: rgb(128, 0, 128);
     width: 200px;
-    border-left-width: 5px;
+    border-left-width: 5 pixels;
 	border-left-color: rgb(0, 128, 0);
 	padding: 10px;
 	border-left-thickness: 5px;

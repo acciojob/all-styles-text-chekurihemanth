@@ -34,6 +34,8 @@ div.main{
 	border-left-side-thickness: 5px;
 	border-left-thickness: 5px;
 	border-left-color: green;
+	border-left-color: rgb(0, 128, 0);
+
 }
 
 .heading{

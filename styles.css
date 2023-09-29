@@ -11,6 +11,13 @@ div.main{
 	width: 200px;
 }
 
+.main{
+	background-color: rgb(128, 0, 128);
+    width: 200px;
+    border-left-width: 5px;
+	border-left-width: rgb(0, 128, 0);
+}
+
 .heading{
 	font-size: 20 pixels;
     text-color: white;

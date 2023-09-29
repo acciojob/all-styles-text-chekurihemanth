@@ -9,6 +9,7 @@ div.main{
 	border-left-width: 5px;
 	background-color: rgb(128, 0, 128);
 	width: 200px;
+	border-left-width: rgb(0, 128, 0);
 }
 
 .main{

@@ -1,47 +1,23 @@
 
 /* Your CSS Code here. */
-/*.main{
-	width: 200px;
-    background-color: purple;
-    left-side-border-color: green;
-    left-side-border-thickness: 5 pixels;
-    padding-on-all-sides: 10px;
-	border-left-width: 5x;
-	background-color: rgb(128, 0, 128);
-	width: 200px;
-	border-left-color: rgb(0, 128, 0);
-	padding: 10px;
-}
 
-.main{
-	background-color: rgb(128, 0, 128);
-    width: 200px;
-    border-left-width: 5px;
-	border-left-color: rgb(0, 128, 0);
-	padding: 10px;
-	border-left-thickness: 5px;
-	border-left-color: green;
-}*/
-
-#main{
-	width: 200px;
-	background-color: rgb(128, 0, 128);
-	border-left-width: 5px;
-	padding: 10px;
-	/*left-side-border-color: green;
-	border-left-side-color: green;
-	left-side-border-thickness: 5px;
-	border-left-side-thickness: 5px;*/
-	border-left-thickness: 5px;
-	border-left-color: green;
-	border-left-color: rgb(0, 128, 0);
-
-}
-
-.heading{
+/*.heading{
 	font-size: 20 pixels;
     text-color: white;
     text-decoration: underline;
 	font-size: 20px;
 	color: rgb(255, 255, 255);
+}*/
+
+.main{
+	width: 200px;
+	background-color: purple;
+	border-left: 5px solid green;
+	padding: 10px;
+}
+
+.heading{
+    color: white;
+    text-decoration: underline;
+	font-size: 20px; 
 }
